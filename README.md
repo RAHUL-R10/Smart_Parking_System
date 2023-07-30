@@ -10,6 +10,10 @@ In congested cities, finding car parking is a major issue due to the increasing 
 - AK9753 IR Sensor x 4
 - Blynk App-Mobile Device for accessing or monitoring the slots x 1
 
+ ## Circuit Diagram
+ 
+![IMG_20210828_181628_08282021181706](https://github.com/RAHUL-R10/Smart_Parking_System/assets/85721390/de138b24-0fa2-4919-b7a4-43310bf3b9cc)
+
 ## Setup
 
 1. Install Arduino IDE: Download and install the Arduino IDE, an open-source software program that allows users to write and upload code to the Arduino board.
